@@ -1,5 +1,5 @@
 # HER2pGC-TME
-This repository contains codes for analysis of the scRNA-seq data of human HER2(+) GC patients.
+This repository contains codes for analysis of the scRNA-seq data of patients with HER2-positive gastric cancer.
 
 All data are included in the Supplementary Information or available from the authors, as are unique reagents used in this Article. The raw numbers for charts and graphs are available in the Source Data file whenever possible.
 
